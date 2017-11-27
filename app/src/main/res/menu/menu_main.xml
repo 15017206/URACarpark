@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/addMarker"
+        android:title="Add Marker" />
+    <item
+        android:id="@+id/showAll"
+        android:title="Show all lots" />
+    <item
+        android:id="@+id/showCarLots"
+        android:title="Show car lots" />
+    <item
+        android:id="@+id/showMotorLots"
+        android:title="Show motorcycle lots" />
+    <item
+        android:id="@+id/showHeavyLots"
+        android:title="Show heavy veh lots" />
+    <item
+        android:id="@+id/settings"
+        android:title="Settings" />
+</menu>
